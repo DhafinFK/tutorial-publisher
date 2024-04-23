@@ -10,3 +10,6 @@ The URL remains consistent across both the publisher and any potential subscribe
 The publisher rust app sends messages to the subscriber app via a broker and the subscriber app takes and processes the messages. Then it shows the message sending process through the terminal.
 ![alt text](images/image1.png)
 ![alt text](images/image2.png)
+
+the chart shows that whenevr a message is sent the server handles a certain load. From the chart we can tell whether the load sent by the publisher is heavy or not.
+![alt text](images/image3.png)
